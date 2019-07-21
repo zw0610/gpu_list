@@ -1,2 +1,2 @@
 # gpu_list
-A very ugly repository mapping training framework to supported gpus
+A very ugly repository mapping dl frameworks to supported gpus
